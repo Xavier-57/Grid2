@@ -1,0 +1,115 @@
+.container {
+    display: grid;
+    width: 570px;
+    height: 380px;
+    grid-template-columns: 29px 65px 30px 34px 45px 30px 50px 34px 60px 42px 30px 29px;
+    grid-template-rows: 24px 40px 90px 50px 84px 20px 33px 24px;
+    grid-gap: 6px;
+    padding: 5px;
+    background-color: black;
+}
+
+
+.white {
+    background-color: white;
+    color: white;
+}
+.blue {
+    background-color: blue;
+    color: blue;
+}
+.red {
+    background-color: red;
+    color: red;
+}
+.yellow {
+    background-color: yellow;
+    color: yellow;
+}
+
+.black {
+    background-color: black;
+    color: black;
+}
+
+/* 1/1 ligne de début et collone de début */
+#carre1 {
+    grid-area: 1/1/3/2;
+}
+
+#carre2 {
+    grid-area: 1/2/4/5;
+}
+#carre3 {
+    grid-area: 1/5/3/7;
+}
+#carre4 {
+    grid-area: 1/7/3/9;
+}
+#carre5 {
+    grid-area: 1/9/2/11;
+}
+
+#carre6 {
+    grid-area: 1/11/3/13;
+}
+
+#carre7 {
+    grid-area: 1/13/6/14;
+}
+
+#carre8 {
+    grid-area: 3/1/8/2;
+}
+
+#carre9 {
+    grid-area: 3/7/4/9;
+}
+
+#carre10 {
+    grid-area: 4/3/5/5;
+}
+
+#carre11 {
+    grid-area: 2/9/4/11;
+}
+
+
+
+
+
+
+/* #carre6 {
+    grid-area: 1/10/3/12;
+}
+#carre7 {
+    grid-area: 1/12/6/13;
+}
+#carre8 {
+    grid-area: 3/1/8/2;
+}
+#carre9 {
+    grid-area: 4/2/6/3;
+}
+#carre10 {
+    grid-area: 4/3/5/5;
+}
+#carre11 {
+    grid-area: 5/3/6/5;
+}
+#carre12 {
+    grid-area: 6/3/7/5;
+}
+#carre13 {
+    grid-area: 3/5/4/5;
+}
+#carre14 {
+    grid-area: 4/7/5/5;
+}
+#carre14 {
+    grid-area: 3/7/4/9;
+} */
+
+/*  12 colones */
+
+/* 8 lignes */
