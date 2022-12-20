@@ -1,8 +1,8 @@
 .container {
     display: grid;
-    width: 570px;
+    width: 600px;
     height: 380px;
-    grid-template-columns: 29px 65px 30px 34px 45px 30px 50px 34px 60px 42px 30px 29px;
+    grid-template-columns: 30px 60px 30px 32px 45px 39px 50px 34px 60px 42px 40px;
     grid-template-rows: 24px 40px 90px 50px 84px 20px 33px 24px;
     grid-gap: 6px;
     padding: 5px;
@@ -73,6 +73,83 @@
 #carre11 {
     grid-area: 2/9/4/11;
 }
+
+#carre12 {
+    grid-area: 3/11/4/13;
+}
+
+#carre13 {
+    grid-area: 4/2/6/3;
+}
+
+#carre14 {
+    grid-area: 5/3/5/5;
+}
+
+#carre15 {
+    grid-area: 4/5/5/7;
+}
+
+#carre16 {
+    grid-area: 5/5/6/7;
+}
+
+#carre17 {
+    grid-area: 4/7/5/9;
+}
+
+#carre18 {
+    grid-area: 4/9/5/10;
+}
+
+#carre19 {
+    grid-area: 4/10/5/11;
+}
+
+#carre20 {
+    grid-area: 4/11/8/13;
+}
+
+#carre21 {
+    grid-area: 6/13/8/13;
+}
+
+#carre22 {
+    grid-area: 6/2/8/3;
+}
+
+#carre23 {
+    grid-area: 6/3/7/5;
+}
+
+#carre24 {
+    grid-area: 7/3/8/7;
+}
+
+#carre25 {
+    grid-area: 6/7/8/9;
+}
+
+#carre26 {
+    grid-area: 6/9/8/11;
+}
+
+#carre27 {
+    grid-area: 5/5/7/7;
+}
+
+#carre28 {
+    grid-area: 5/7/6/9;
+}
+
+
+
+
+
+
+
+
+
 
 
 
